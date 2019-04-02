@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cmz_ReviewMybatis03:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cmz_ReviewMybatis03_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cmz_ReviewMybatis03/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cmz_ReviewMybatis03" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.30" />
+          <element id="library" level="project" name="asm-3.3.1" />
+          <element id="library" level="project" name="mybatis-3.2.7" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

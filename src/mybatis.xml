@@ -29,7 +29,7 @@
         <!--<typeAlias type="cn.uestc.mapperer.People" alias="People"/>-->
         <!--如果一个包中类很多，则typeAlias字段不适用，mybatis提供包的声明，
             被声明的包下的类的别名直接为除去包名后的类名，并且区分大小写！-->
-        <package name="cn.uestc.mapper"/>
+        <package name="cn.uestc.pojo"/>
     </typeAliases>
 
     <!-- default:引用 environment 的 id,当前所使用的JDBC环境，可以在configuration中配置多种enviroment环境，例如oracle和mysql、sqlServer等-->

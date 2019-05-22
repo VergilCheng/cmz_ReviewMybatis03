@@ -11,6 +11,8 @@
           <element id="library" level="project" name="mysql-connector-java-5.1.30" />
           <element id="library" level="project" name="asm-3.3.1" />
           <element id="library" level="project" name="mybatis-3.2.7" />
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="module" name="JUnit4" module-name="cmz_ReviewMybatis03" />
         </element>
       </element>
     </root>
